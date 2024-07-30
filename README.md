@@ -1,2 +1,2 @@
-# ou-generativeai-pro
-ou-generativeai-pro
+# Oracle Generative AI course
+![alt text](image.png)
